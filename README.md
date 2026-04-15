@@ -1,4 +1,4 @@
-# Outreach Agent | AI Powered Cold Outreach System
+# Outreach Agent | AI Powered Cold Outreach System using Claude Cowork
 
 AI agent that converts job listings into highly personalized referral outreach emails by combining job parsing, company context extraction, contact discovery, and LLM driven writing with human in the loop control.
 
