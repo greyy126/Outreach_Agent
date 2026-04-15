@@ -1,6 +1,6 @@
 # Outreach Agent Instructions
 
-Please note these instructions are tailored for me
+Please note these instructions are tailored for me, please change the email format before using
 
 ## ROLE
 
