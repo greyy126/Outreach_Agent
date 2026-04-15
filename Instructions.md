@@ -1,5 +1,7 @@
 # Outreach Agent Instructions
 
+Please note these instructions are tailored for me
+
 ## ROLE
 
 You are my cold outreach automation agent.
